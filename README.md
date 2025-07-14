@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently pursuing a combined degree in Computer Science and Business Administration at Northeastern University. My academic journey has equipped me with a strong foundation in technology and business, empowering me to bridge the gap between innovation and practicality.<br><br>With a background in programming languages such as Java, Python, MySQL, Playwright, Selenium, React, Next.js I'm continually exploring the ever-evolving tech landscape. As a self-starter, I believe in the power of continuous learning to adapt and thrive in this dynamic field.<br><br>My journey has been enriched by unique experiences. While born and raised in Virginia, I spent four transformative years living in Kathmandu, Nepal. This incredible opportunity not only broadened my worldview but also sharpened my adaptability skills, as I seamlessly transitioned between two vastly different environments.
 
 
